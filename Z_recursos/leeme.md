@@ -1,2 +1,2 @@
 ## EJemplo
-![La targeta]¡(card.jap)
+![La targeta](card.jap)
