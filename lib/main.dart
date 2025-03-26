@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:Garzacurso/miWidgets/Mi_targeta.dart';
 
+import 'miWidgets/dialogo_acercaa_de.dart';
+
 const Color darkBlue = Color(0xFF12202F);
 
 void main() {
@@ -32,7 +34,8 @@ class MyHomePage extends StatelessWidget {
         title: const Text('Flutter Garza'),
         centerTitle: true,
       ),
-      body: LaTargeta(),
+      // body: LaTargeta(),
+      body: const DialogoAcercaDe(),
     );
   }
 }
