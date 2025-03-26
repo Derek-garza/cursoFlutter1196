@@ -6,4 +6,4 @@
 ## Ejemplo Lista
 ![Dialogo](lista_about.jpg).
 
-![Dialogo](lista_about.jpg).
+![Dialogo](dialogo2.jpg).
