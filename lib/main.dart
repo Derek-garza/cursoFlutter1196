@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:Garzacurso/miWidgets/Mi_targeta.dart';
-
+import 'package:Garzacurso/miWidgets/lista.dart';
 import 'miWidgets/dialogo_acercaa_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
@@ -35,7 +35,8 @@ class MyHomePage extends StatelessWidget {
         centerTitle: true,
       ),
       // body: LaTargeta(),
-      body: const DialogoAcercaDe(),
+      // body: const DialogoAcercaDe(),
+      body: const Lista(),
     );
   }
 }
